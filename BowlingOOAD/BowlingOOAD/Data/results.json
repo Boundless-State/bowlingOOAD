@@ -1,0 +1,2522 @@
+[
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 211,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 11,
+    "Name": "Greger",
+    "Result": 158,
+    "GameDate": "2025-03-07T16:12:02.5857911+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 253,
+    "GameDate": "2025-03-07T12:15:25.7010949+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 253,
+    "GameDate": "2025-03-07T12:15:25.7010949+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 277,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 220,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 220,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 158,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 74,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 277,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 277,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 158,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 74,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 220,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 277,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 69,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 158,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 74,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 69,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 69,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 158,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 74,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 253,
+    "GameDate": "2025-03-07T12:15:25.7010949+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Yalla",
+    "Result": 269,
+    "GameDate": "2025-03-07T12:15:28.767632+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 276,
+    "GameDate": "2025-03-07T12:15:25.7010949+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 276,
+    "GameDate": "2025-03-07T12:15:25.7010949+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 277,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 220,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 220,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 158,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 74,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 277,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 277,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 158,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 74,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 220,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 277,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 69,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 158,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 74,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 69,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 69,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 61,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 158,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 68,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 74,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 203,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 98,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 297,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 145,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 191,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 60,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 254,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 154,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 290,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 130,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 223,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 259,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 89,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 163,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 193,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 139,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 107,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 158,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 291,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 65,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  }
+]

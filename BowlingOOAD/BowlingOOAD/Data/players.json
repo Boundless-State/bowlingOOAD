@@ -1,0 +1,68 @@
+[
+  {
+    "PlayerID": 1,
+    "Name": "Timmy",
+    "Result": 0,
+    "GameDate": "2025-03-04T20:26:19.1224147+01:00"
+  },
+  {
+    "PlayerID": 2,
+    "Name": "Anna",
+    "Result": 0,
+    "GameDate": "2025-03-04T20:26:22.9688074+01:00"
+  },
+  {
+    "PlayerID": 3,
+    "Name": "Bertil",
+    "Result": 0,
+    "GameDate": "2025-03-04T20:26:25.9839628+01:00"
+  },
+  {
+    "PlayerID": 4,
+    "Name": "Stina",
+    "Result": 0,
+    "GameDate": "2025-03-04T20:26:30.2941164+01:00"
+  },
+  {
+    "PlayerID": 5,
+    "Name": "Test",
+    "Result": 0,
+    "GameDate": "2025-03-04T22:29:36.7683841+01:00"
+  },
+  {
+    "PlayerID": 14,
+    "Name": "Test 2",
+    "Result": 0,
+    "GameDate": "2025-03-06T16:35:05.1350168+01:00"
+  },
+  {
+    "PlayerID": 7,
+    "Name": "Johanna",
+    "Result": 0,
+    "GameDate": "2025-03-06T16:44:46.3373179+01:00"
+  },
+  {
+    "PlayerID": 8,
+    "Name": "Erik",
+    "Result": 0,
+    "GameDate": "2025-03-06T16:44:55.752837+01:00"
+  },
+  {
+    "PlayerID": 9,
+    "Name": "Sebastian",
+    "Result": 0,
+    "GameDate": "2025-03-07T10:55:48.0462348+01:00"
+  },
+  {
+    "PlayerID": 10,
+    "Name": "Foo",
+    "Result": 0,
+    "GameDate": "2025-03-07T10:59:58.3757573+01:00"
+  },
+  {
+    "PlayerID": 11,
+    "Name": "Greger",
+    "Result": 0,
+    "GameDate": "2025-03-07T16:12:02.5857911+01:00"
+  }
+]

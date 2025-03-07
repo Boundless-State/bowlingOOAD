@@ -1,0 +1,58 @@
+--------------------------------------------------------------
+
+---Bertils Bowlinghall---
+
+--------------------------------------------------------------
+- Hur man använder Bowlingapplikationen:
+--------------------------------------------------------------
+
+1. Starta appen, så ser du detta... Välj mellan commando nummer 1-6.
+
+--- Bertils Bowlinghall ---
+1. Registrera ny medlem
+2. Lista medlemmar
+3. Starta ny match
+4. Visa matchhistorik
+5. Ta en Öl i baren
+6. Spara och Avsluta
+Välj ett alternativ:.
+
+--------------------------------------------------------------
+- Hur man spelar ett spel:
+--------------------------------------------------------------
+
+1. Registrera ett nytt användarnamn med commando 1:
+(Om du redan är registrerad, hoppa över detta steg.)
+- Skriv in 1 och tryck på Enter för att få tillgång till registreringsformuläret om du inte redan är registrerad.
+- Skriv in användarnamnet och tryck på Enter.
+- Tryck på Enter igen när fältet är tomt för att gå tillbaka.
+
+
+2. Starta ett spel med commando 3: 
+- Starta ny match och använd ett redan befintligt användarnamn från Registrerade Medlemmar,
+eller skriv 0 för att registrera en ny användare. (se steg 1 för mer information)
+
+3. När två spelare är redo att spela kommer matchen att simuleras.
+
+4. Poängen visas och loggen kommer att visa vem vinnaren är.
+Därefter avslutas applikationen.
+
+--------------------------------------------------------------
+- TIPS:
+--------------------------------------------------------------
+
+Man kan också få information ifrån huvudmenyn:
+
+Lista medlemmar: 
+- Visar medlemmar som finns i systemet med commando 2.
+
+Visa matchhistorik: 
+- Visar matchhistoriken som varit med commando 4.
+
+Ta en Öl i baren: 
+- För den törstige innan matchen med commando 5.
+
+Spara och Avsluta: 
+- För att spara och avsluta applikationen med commando 6.
+
+--------------------------------------------------------------

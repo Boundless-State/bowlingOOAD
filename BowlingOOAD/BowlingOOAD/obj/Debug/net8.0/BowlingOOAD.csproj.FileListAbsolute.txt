@@ -1,0 +1,14 @@
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\bin\Debug\net8.0\BowlingOOAD.exe
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\bin\Debug\net8.0\BowlingOOAD.deps.json
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\bin\Debug\net8.0\BowlingOOAD.runtimeconfig.json
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\bin\Debug\net8.0\BowlingOOAD.dll
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\bin\Debug\net8.0\BowlingOOAD.pdb
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\BowlingOOAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\BowlingOOAD.AssemblyInfoInputs.cache
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\BowlingOOAD.AssemblyInfo.cs
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\BowlingOOAD.csproj.CoreCompileInputs.cache
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\BowlingOOAD.dll
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\refint\BowlingOOAD.dll
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\BowlingOOAD.pdb
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\BowlingOOAD.genruntimeconfig.cache
+C:\Users\timmy\Desktop\Studier\Inlämningsuppgiter\OOAD\Bowlinghall\BowlingOOAD\BowlingOOAD\obj\Debug\net8.0\ref\BowlingOOAD.dll

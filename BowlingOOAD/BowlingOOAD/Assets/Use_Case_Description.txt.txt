@@ -1,0 +1,51 @@
+----------------------------
+Use Case Create User
+----------------------------
+
+
+----------------------------
+Primär Aktör
+----------------------------
+- Användare
+
+----------------------------
+Beskrivning
+----------------------------
+
+Här kommer information om hur man skapar en ny användare för bowlingsapplikationen via systemet.
+
+1. Användaren väljer Registrera ny Medlem.
+2. Applikationen ber användaren om användarnamn.
+3. Användare skriver in sitt användarnamn och trycker enter.
+4. Användaren Tryck Enter för att gå tillbaks till huvudmenyn.
+5. Applikationen registrerar användarnamnet i applikationen.
+
+----------------------------
+Alternativflöde 
+(Felhantering)
+----------------------------
+
+4b. Om användaren har matat in tom input får användaren information att det är felaktig inmatning.
+4c. Om användaren har matat in medlemsnamn som redan finns så får den meddelande om ogiltig inmatning.
+5b. Applikationen återgår till menyn.
+
+----------------------------
+Eftervillkor:
+----------------------------
+
+Användaren har nu sparat sitt användarnamn i applikationens databas.
+
+
+
+----------------------------
+Övrig Info
+----------------------------
+
+* Användare som kör applikationen kan lägga till nya medlemmar via denna funktion.
+
+* Vem som helst kan skapa sin användare.
+
+* Användarkonto måste finnas registrerat för att kunna spela en match.
+
+----------------------------
+

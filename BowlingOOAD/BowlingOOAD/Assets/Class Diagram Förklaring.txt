@@ -1,0 +1,28 @@
+Jag har skapat ett klassdiagram som visar relationerna mellan de olika klasserna i Bowling Game-applikationen. 
+Låt mig förklara de viktigaste delarna:
+
+------------------------------------------------------------
+
+1. Diagrammet visar huvudklasserna: 
+Program, Player, BowlingGameFacade, MemberRegistrationService och SingletonLogger.
+
+------------------------------------------------------------
+
+2. Relationer:
+   * BowlingGameFacade innehåller en medlemsregistreringstjänst
+   * Både BowlingGameFacade och MemberRegistrationService använder SingletonLogger
+   * Båda klasserna hanterar flera spelarobjekt
+   * Programklassen använder BowlingGameFacaden för att starta applikationen
+
+------------------------------------------------------------
+
+3. Varje klass visar sina metoder och några viktiga attribut.
+
+------------------------------------------------------------
+
+4. Beteckningen som används:
+   * Heldragna linjer med diamanter representerar sammansättning (starkt ägande)
+   * Rader med cirklar representerar association
+   * Siffrorna (1, *) indikerar kardinalitet av relationerna
+
+------------------------------------------------------------
